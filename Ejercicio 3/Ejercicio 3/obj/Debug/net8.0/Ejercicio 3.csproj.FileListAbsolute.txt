@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.exe
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.deps.json
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.runtimeconfig.json
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.dll
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.pdb
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.dll
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\refint\Ejercicio 3.dll
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.pdb
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Primera guia de Ejercicios\2 Conversion de Tipos\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0\ref\Ejercicio 3.dll
